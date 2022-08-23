@@ -1,0 +1,15 @@
+*~
+*.bak
+*.json
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfvars
+.DS_Store
+*.p12
+*.crt
